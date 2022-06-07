@@ -25,3 +25,12 @@ Images after processing looks something like this:
 As mentioned in the initial part , I have 2 networks namely a simple neural network and a Convolutional network which resembles the same as shown below  
 <kbd>![NeuralNet](Data/NeuralNet.png)</kbd>
 <kbd>![ConvNet](Data/ConvNet.png)</kbd>
+
+# Results
+The validation process in the code implementation provided shows the results obtained after inferencing the model on the validation data  
+
+# Dice metric loss
+As shown in the training dataset , there is a huge imbalance in the classes. Hence the normal accuracy of matching correct pixels in the prediction to ground truth does'nt really give us a proper estimate of the model hence another metric namely Dice metric is introduced which is very similar to that of the IOU used in Non max suppression.
+
+# Future works
+I'll soon be adding another implementation of CNN i.e. a popular segmentation architecture namely U-Net along with the data preparation part.Untill then stay tuned...    
