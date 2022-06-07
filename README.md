@@ -18,5 +18,10 @@ Validation Images:26
 I definetly have plans to cover the data prepartion part as it forms a import part of the machine learning pipeline. And maybe if time permits I'll extend the image segmentation to the ventricle volume prediction task.
 
 Images after processing looks something like this
-1. ![Sample image1](Data/example1.png)
-2. ![Sample image2](Data/example2.png)
+![Sample image1](Data/example1.png)
+![Sample image2](Data/example2.png)
+
+# Networks
+As mentioned in the initial part , I have 2 networks namely a simple neural network and a Convolutional network which resembles the same as shown below
+![Sample image1](Data/NeuralNet.png)
+![Sample image2](Data/ConvNet.png)
