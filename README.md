@@ -23,5 +23,5 @@ Images after processing looks something like this
 
 # Networks
 As mentioned in the initial part , I have 2 networks namely a simple neural network and a Convolutional network which resembles the same as shown below
-![NeuralNet](Data/NeuralNet.png)
-![ConvNet](Data/ConvNet.png)
+<kbd>![NeuralNet](Data/NeuralNet.png)</kbd>
+<kbd>![ConvNet](Data/ConvNet.png)</kbd>
