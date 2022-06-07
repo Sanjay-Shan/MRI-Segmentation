@@ -1,0 +1,2 @@
+Training TFRecord: https://drive.google.com/file/d/1l9bvwjXPo_yiIeObxw1g5xQvCcReZihA/view?usp=sharing
+Validation TFRecord: https://drive.google.com/file/d/1GuRfU2VtikviB6R9on-OqOcRu2zcnJOz/view?usp=sharing
